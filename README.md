@@ -1,4 +1,4 @@
-boxfuse-sample-java-war-hello
+boxfuse-sample-java-war-hello project for test gihub webhook
 =============================
 
 Boxfuse Sample Hello World Java application packaged as a war file
