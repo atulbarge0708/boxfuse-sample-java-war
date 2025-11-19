@@ -54,4 +54,17 @@
             </plugin>
         </plugins>
     </build>
+     <distributionManagement>
+    <repository>
+      <id>maven-releases</id>                       <!-- must match settings.xml server id -->
+      <name>Nexus Releases</name>
+      <url>http://3.7.168.4:8081/repository/maven-releases/</url>
+    </repository>
+
+    <snapshotRepository>
+      <id>maven-snapshots</id>
+      <name>Nexus Snapshots</name>
+      <url>http://3.7.168.4:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>    
 </project>
