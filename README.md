@@ -1,4 +1,4 @@
-boxfuse-sample-java-war-hello project 
+boxfuse-sample-java-war-hello project vdsvsd.
 
 Boxfuse Sample Hello World Java application packaged as a war file
 
